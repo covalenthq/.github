@@ -1,11 +1,26 @@
 <h1 align="center">Modular data infrastructure for AI.</h1>
 
-Covalent is the leading modular data infrastructure layer that’s dedicated to solving the Long-Term Data Availability and the verifiability problem in AI
+Covalent is the leading modular data infrastructure layer that’s dedicated to solving the Long-Term Data Availability and the verifiability problem in AI.
+
+GoldRush provides foundational multichain data APIs and toolkits for easy web3 development across 100+ chains. 
 
 
-# GoldRush
+# GoldRush API & UI Kit
+
+Foundational multichain data APIs and toolkits for easy web3 development across 100+ chains. GoldRush offers structured onchain data, including token balances, transactions, logs and traces, through powerful APIs, SDKs and UI Kits for building dapps. Join hundreds of top teams that leverage GoldRush to cut down their development time and scale their multichain offerings with enterprise-grade onchain data.
 
 The GoldRush Kit is a set of beautifully designed React components for most common use cases like Token Balances, Token Transfer History, Transactions, and more. These components are multi-chain by default with over 200+ networks supported, open-source and fully customizable.
+
+<div align="center">
+    <a href="https://goldrush.dev/">Website</a> |
+    <a href="https://goldrush.dev/docs/unified-api/">GoldRush Documentation</a> |
+    <a href="https://goldrush.dev/docs/api/">API Reference</a> |
+    <a href="https://goldrush.dev/docs/unified-api/guides/">API Guides</a> |
+    <a href="https://goldrush.dev/docs/networks/">100+ Supported Networks</a> | 
+    <a href="https://goldrush.dev/pricing/">Pricing</a> 
+</div>
+
+<br />
 
 * [GoldRush Kit](https://github.com/covalenthq/goldrush-kit) - Beautifully designed React components for your application front-end.
 * [GoldRush Decoder](https://github.com/covalenthq/goldrush-decoder) - Decode unstructured, raw event logs into structured data with a simple API.
@@ -25,6 +40,18 @@ Open-source, customizable templates to quickly bootstrap your applications. Powe
 ---
 
 # Covalent Network
+
+Covalent is the leading modular data infrastructure layer dedicated to solving major challenges in blockchain and AI, including verifiability, decentralized AI inference, and Long-Term Data Availability. Its large reservoir of structured, verifiable data enhances decentralized training and inference, reducing the risk of manipulated or biased AI models. Additionally, the Covalent Network's Ethereum Wayback Machine ensures secure, decentralized access to Ethereum’s transaction data. Trusted by over 3,000 leading organizations, Covalent powers AI, DeFi, GameFi, and more with unfettered access to onchain data from over 100 blockchains.
+
+<div align="center">
+    <a href="https://www.covalenthq.com/">Website</a> |
+    <a href="https://www.covalenthq.com/docs/">Documentation</a> |
+    <a href="https://www.covalenthq.com/docs/nodes/overview/">Run a node</a> |
+    <a href="https://discord.gg/8ZWgu2pWY4/">Discord</a> |
+    <a href="https://www.covalenthq.com/docs/resources/audits/">Security & Audits</a> |
+</div>
+
+<br />
 
 * [EWM Contracts](https://github.com/covalenthq/ewm-contracts) - Ethereum Wayback Machine contracts
 * [EWM Data Availability Sampling](https://github.com/covalenthq/ewm-das) - Lightweight IPFS services to store/pin data on the IPFS network and verify it using the DAS protocol.
