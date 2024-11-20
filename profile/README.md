@@ -53,6 +53,7 @@ Covalent is the leading modular data infrastructure layer dedicated to solving m
 
 <br />
 
+* [Covalent X Token (CXT)](https://github.com/covalenthq/covalent-x-token) - Covalent X Token ERC20 contracts
 * [EWM Contracts](https://github.com/covalenthq/ewm-contracts) - Ethereum Wayback Machine contracts
 * [EWM Data Availability Sampling](https://github.com/covalenthq/ewm-das) - Lightweight IPFS services to store/pin data on the IPFS network and verify it using the DAS protocol.
 * [Block Results Producer](https://github.com/covalenthq/refiner) - Concurrent block specimen data processing and transformation framework for the Covalent Network.
