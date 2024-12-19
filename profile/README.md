@@ -4,6 +4,11 @@ Covalent is the leading modular data infrastructure layer that’s dedicated to 
 
 GoldRush provides foundational multichain data APIs and toolkits for easy web3 development across 100+ chains. 
 
+# AI 
+
+* [AI Agent SDK](https://github.com/covalenthq/ai-agent-sdk) - A TypeScript SDK to build, deploy and interact with AI agents. Create intelligent, context-aware agents with unprecedented ease and functionality.
+
+
 
 # GoldRush API & UI Kit
 
